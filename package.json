@@ -1,0 +1,18 @@
+{
+  "name": "tcpvsudp",
+  "version": "1.0.0",
+  "description": "TCP vs UDP protocol Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dgram": "^1.0.1",
+    "net": "^1.0.2",
+    "nodemon": "^3.0.1"
+  }
+}
